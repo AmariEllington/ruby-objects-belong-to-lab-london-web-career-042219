@@ -11,4 +11,5 @@ end
 
 end
 
-post.author = Author.new
+author = Author.new
+post.author = author
