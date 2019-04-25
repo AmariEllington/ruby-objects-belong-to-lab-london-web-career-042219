@@ -10,5 +10,3 @@ end
 
 
 end
-
-post.author = author
