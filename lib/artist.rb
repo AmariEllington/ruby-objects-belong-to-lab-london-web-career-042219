@@ -7,3 +7,5 @@ def initialize
 end
 
 end
+
+artist = Artist.new
