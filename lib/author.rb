@@ -7,3 +7,5 @@ def initialize
 end
 
 end
+
+author = Author.new
