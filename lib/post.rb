@@ -10,3 +10,6 @@ end
 
 
 end
+
+author = Author.new
+post.author = author
