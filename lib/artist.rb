@@ -7,5 +7,3 @@ def initialize
 end
 
 end
-
-Beyonce = Artist.new
